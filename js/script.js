@@ -1,6 +1,16 @@
 //Class 1:
         // Fork and clone the repo and set up your project workspace and link files
         // Write HTML for your project
+       var userChoice ;
+       var computerChoice ;
+       var winner ;
+       var jangkenpo = ["scissors","paper", "rock"]
+       
+        var Scissors = "scissors";
+        var Paper = "paper";
+        var Rock = "rock";
+        var scissors = Scissors ;
+        var paper = "";
 //Class 2:  
         // Declare four global variables for intial state of the list of choices, the computer choice, the user choice, and the winner.  
         // Practice using console.log() and debugger to debug your code
